@@ -1,0 +1,17 @@
+{
+  "name": "algorithm-challenges",
+  "author": {
+    "name": "Rayon Lindraz"
+  },
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "bun test"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
