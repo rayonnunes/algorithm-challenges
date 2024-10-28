@@ -1,4 +1,3 @@
-
 export default function richestCustomerWealth(accounts: number[][]): number {
     let richestWealth = 0
 
